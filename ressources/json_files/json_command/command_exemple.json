@@ -1,0 +1,12 @@
+{
+    "user_id": 123456789,
+    "username": "UtilisateurExemple",
+    "address": "123 Rue de la Démo, 75000 Paris",
+    "price": 15.50,
+    "photo_path": "example_order.jpg",
+    "cooker_id": "987654321",
+    "facture_message": "Merci pour votre commande !",
+    "instant_messaging": 1,
+    "ticket_etat": 0,
+    "command_etat": 0
+}

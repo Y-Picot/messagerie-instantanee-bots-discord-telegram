@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+bots/__pycache__/*
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+.venv
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+bot_logs.log
+
+# IDE specific files
+.vscode/
+.github/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Bot specific files - Pictures and media files (keep structure but ignore actual files)
+ressources/pictures_command/*.jpg
+ressources/pictures_command/*.png
+ressources/pictures_command/*.jpeg
+!ressources/pictures_command/keep_dossier.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Configuration sensible - Tokens de bots
+# NOTE: Le fichier constants.py contient des tokens à remplacer
+# mais n'est pas exclu pour permettre aux utilisateurs de voir la structure
+# ATTENTION: Ne jamais commiter avec de vrais tokens !
