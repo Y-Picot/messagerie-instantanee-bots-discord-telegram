@@ -1,4 +1,4 @@
-# 🤖 Bots Discord & Telegram
+# Bots Discord & Telegram
 
 <div align="center">
 
