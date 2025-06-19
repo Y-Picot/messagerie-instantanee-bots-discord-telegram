@@ -19,12 +19,12 @@ Ce projet implémente un système de bots interconnectés permettant la gestion 
 
 ### ✨ Fonctionnalités principales
 
-- **🎯 Système de commandes** : Prise de commande via Telegram avec photos et adresses
-- **📊 Gestion administrative** : Interface Discord pour traiter les commandes
-- **💬 Communication temps réel** : Messagerie instantanée entre les plateformes
-- **🏆 Système de fidélité** : Points de fidélité et classements
-- **📈 Statistiques** : Suivi du chiffre d'affaires et des commandes
-- **🚫 Liste noire** : Gestion des utilisateurs bloqués
+- **Système de commandes** : Prise de commande via Telegram avec photos et adresses
+- **Gestion administrative** : Interface Discord pour traiter les commandes
+- **Communication temps réel** : Messagerie instantanée entre les plateformes
+- **Système de fidélité** : Points de fidélité et classements
+- **Statistiques** : Suivi du chiffre d'affaires et des commandes
+- **Liste noire** : Gestion des utilisateurs bloqués
 
 ## 🛠️ Technologies
 
