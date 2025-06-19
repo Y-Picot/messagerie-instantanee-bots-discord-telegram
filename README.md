@@ -133,7 +133,7 @@ Ce projet est sous licence MIT. Voir [LICENSE](LICENSE) pour plus de détails.
 
 <div align="center">
 
-**Développé par [Y-Picot](https://github.com/Y-Picot) & [axboulangerr](https://github.com/axboulangerr)**
+**Développé par [Y-Picot](https://github.com/Y-Picot) & [axboulanger](https://github.com/axboulangerr)**
 
 ⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile !
 
